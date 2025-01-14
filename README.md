@@ -34,6 +34,8 @@
 - 🌐 [LinkedIn](https://www.linkedin.com/in/dalin-fangloy)
 
 ---
+<div align="center">
+
 Let's build something amazing together! 🌟
 
 
@@ -42,7 +44,7 @@ Let's build something amazing together! 🌟
 
 
 ![Space Cat](https://res.cloudinary.com/drraxdsod/image/upload/v1736885047/42t77_deznsu.jpg)
-
+</div>
 
 <!--
 **dalfang/dalfang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
