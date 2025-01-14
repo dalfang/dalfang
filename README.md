@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hello, I'm Dalin 🚀
+# Hello, my name is Dalin 🚀
 
 *Highly motivated Full Stack Web Developer, constantly building new projects and exploring innovative tech.* 🌟✨
 
