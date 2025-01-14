@@ -1,10 +1,12 @@
+<div align="center">
+
 # Hello, I'm Dalin 🚀
 
-*Highly motivated Full Stack Web Developer, constantly building new projects and exploring innovative tech.*  🌟✨
+*Highly motivated Full Stack Web Developer, constantly building new projects and exploring innovative tech.* 🌟✨
 
-I enjoy experimenting with new techniques and I love art and design 
+*I enjoy experimenting with new techniques and I love art and design.* 🎨 ✧˚ ༘ ⋆｡˚👩🏻‍🎨 
 
----
+</div>
 
 ## Visit my website for more
 
@@ -30,7 +32,6 @@ I enjoy experimenting with new techniques and I love art and design
 ## Connect With Me
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/dalin-fangloy)
-- 📧 [d.fangloy@gmail.com](mailto:d.fangloy@gmail.com)
 
 ---
 Let's build something amazing together! 🌟
